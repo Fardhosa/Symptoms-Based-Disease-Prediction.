@@ -5,8 +5,7 @@ The patient can fill up to 5 symptoms and based on these symptoms Machine Learni
 It predicts disease by using three different machine learning algorithms. 
 * Random Forest
 * Decision Tree
-* ![image](https://user-images.githubusercontent.com/53854470/166112038-cfa1d19c-e6d8-47ad-b623-da90cc22c7fe.jpg)
-Naïve Bayes
+* Naïve Bayes
 
 # 1. Project Scope  
 This Machine Learning project is used to predict the disease based on the symptoms given by the user. The output is accurate. 
